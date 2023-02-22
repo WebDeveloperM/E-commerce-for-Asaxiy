@@ -1,4 +1,4 @@
-# Django-eCommerce-tutorial-manascode 
+# Django-eCommerce-for-Asaxiy
 
 
 Steps to get started
